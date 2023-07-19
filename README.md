@@ -5,7 +5,9 @@
 <p> Versão 1: O projeto consiste em trabalhar apenas com operações de depósito, saque e consulta de extrato seguindo regras de negócios estipuladas pelo curso. </p>
 <p> Foram utilizados conceitos de input/output, condições if/else/elif, operadores e estruturas condicionais. </p>
 
-<p> Versão 2: Loading... 💻 </p>
+<p> Versão 2: Otimização do código com a implementação da programação estruturada, onde separamos as funções de operações de depósito, saque e consulta de extrato. Houve a criação de duas novas funções: cadastrar clientes, cadastrar contas bancárias e listar as contas cadastradas. Também foram praticadas as técnicas de estruturas de dados aprendidas no curso como listas, dicionários, args e kwargs.</p>
+
+<p> Versão 3: Loading... 💻 </p>
 
 # 🛠️ Abrir e rodar o projeto
 Após baixar o projeto, você pode rodá-lo através de um terminal de comando.
